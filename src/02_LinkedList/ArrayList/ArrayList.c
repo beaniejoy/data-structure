@@ -48,7 +48,7 @@ Type Remove(ArrayList* plist) {
 	for (int i = ridx; i < total - 1; i++) {
 		// In this case, the value type in the List is integer(primitive type),
 		// Therefore, it is possible to just assign the next value in the previous.
-		// However, if the value type is reference type(pointer), it is more complicated.
+		// However, in the LinkedList, it may be more complicated. 
 		plist->arr[i] = plist->arr[i + 1];
 	}
 
