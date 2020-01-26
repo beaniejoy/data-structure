@@ -1,5 +1,8 @@
 # Data Structure
-  
+
+computer science - data structure (C language base)
+
+
 ### [1. Recursive](https://github.com/hanbinleejoy/data-structure/tree/master/src/01_recursive)  
 - Factorial
 - Fibonacci
