@@ -10,7 +10,7 @@ computer science - data structure (C, java language base)
 
 ### [2. Linked List](https://github.com/hanbinleejoy/data-structure/tree/master/src/02_LinkedList)  
 - general ArrayList
-- Linked List by using dummy node
+- Linked List by using dummy node (+ java)
 - Circular Linked List  
 
 ### 3. Stack  
