@@ -21,7 +21,7 @@ computer science - data structure (C, java language base)
 
 ## Reference
 - book : [윤성우의 열혈 자료구조(Introduction to Data Structures Using C)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788996094067&orderClick=LAG&Kc=)
-- etc. : many blogs
+- etc. : many blogs, college course sources
 
 ## Blog Link
 [beaniejoy.tistory.com](https://beaniejoy.tistory.com/)
