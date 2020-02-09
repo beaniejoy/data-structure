@@ -25,8 +25,3 @@ computer science - data structure (C, java language base)
 
 ## Blog Link
 [beaniejoy.tistory.com](https://beaniejoy.tistory.com/)
-
-Array vs Linked List  
-Stack vs Queue  
-Tree: Binary Tree, Heap  
-Graph  
