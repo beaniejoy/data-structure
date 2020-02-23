@@ -24,4 +24,5 @@ computer science - data structure (C, java language base)
 - etc. : many blogs, college course sources
 
 ## Blog Link
-[beaniejoy.tistory.com](https://beaniejoy.tistory.com/)
+[beaniejoy.tistory.com](https://beaniejoy.tistory.com/)  
+
